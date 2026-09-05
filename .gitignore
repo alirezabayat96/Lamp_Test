@@ -1,0 +1,13 @@
+# ignores raw data but keeps results
+data/
+*.zip
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python system files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
